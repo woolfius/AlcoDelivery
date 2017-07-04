@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f187c49b-bee3-42f2-86f1-311d8933d1e9" name="Default" comment="" />
+    <list default="true" id="f187c49b-bee3-42f2-86f1-311d8933d1e9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/alcoholDelivery-master/app/js/controllers/myCtrl.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -45,6 +47,8 @@
                 <element signature="e#87#734#0" expanded="false" />
                 <element signature="e#748#1402#0" expanded="false" />
                 <element signature="e#16005#17117#0" expanded="false" />
+                <marker date="1499133760000" expanded="true" signature="17308:17484" ph="{...}" />
+                <marker date="1499133760000" expanded="true" signature="17364:17457" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -65,6 +69,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/alcoholDelivery-master/app/js/userServices/userServices.js" />
+        <option value="$PROJECT_DIR$/alcoholDelivery-master/app/js/controllers/myCtrl.js" />
       </list>
     </option>
   </component>
@@ -241,15 +246,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499163528415</updated>
-      <workItem from="1499163529766" duration="4947000" />
+      <workItem from="1499163529766" duration="5357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4947000" />
+    <option name="totallyTimeSpent" value="5357000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1612" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1612" height="876" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -309,6 +314,8 @@
             <element signature="e#87#734#0" expanded="false" />
             <element signature="e#748#1402#0" expanded="false" />
             <element signature="e#16005#17117#0" expanded="false" />
+            <marker date="1499133760000" expanded="true" signature="17308:17484" ph="{...}" />
+            <marker date="1499133760000" expanded="true" signature="17364:17457" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -332,7 +339,7 @@
     <entry file="file://$PROJECT_DIR$/alcoholDelivery-master/app/js/controllers/myCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding />
         </state>
       </provider>

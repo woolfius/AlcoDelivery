@@ -339,12 +339,8 @@ app.factory("UserService", function ($http) {
             return this.user
         }
 
-
     }
 })
-
-
-
 app.filter('startFrom', function() {
     return function(input, start) {
         if(input) {
